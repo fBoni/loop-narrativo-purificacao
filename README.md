@@ -107,10 +107,10 @@ Os ciclos 2 e 3 serão adicionados após feedback.
 ---
 
 ## ✔ 9. Status do Projeto  
-🟦 **Entrega parcial enviada para feedback**  
-🟩 Ciclo 1 completo  
-🟨 Ciclos 2 e 3 pendentes  
-🟪 Documentação pronta  
+- **Entrega parcial enviada para feedback**  
+- Ciclo 1 completo  
+- Ciclos 2 e 3 pendentes  
+- Documentação pronta  
 
 ---
 
