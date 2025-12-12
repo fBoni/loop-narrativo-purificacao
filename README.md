@@ -54,7 +54,7 @@ A névoa revela fragmentos de lembranças, expõe segredos perigosos e intensifi
 
 Texto completo em:
 
-👉 `/docs/arco-narrativo.md`
+👉 `/docs/Descrição Projeto Game Loop com Narrativa.docx`
 
 ---
 
@@ -68,7 +68,7 @@ O vídeo demonstra **o Ciclo 1 completo**, com:
 
 Arquivo disponível em:
 
-👉 `/prototipo/ciclo1.mp4`
+👉 `/prototipo/Loop_narrativo_ciclo1.mp4`
 
 Os ciclos 2 e 3 serão adicionados após feedback.
 
