@@ -79,20 +79,14 @@ Os ciclos 2 e 3 serão adicionados após feedback.
 | Caminho | Conteúdo |
 |--------|----------|
 | `/docs` | Diagramas, narrativa e roteiro do vídeo |
-| ├── `core-loop-diagram.png` | Diagrama do loop central |
-| ├── `meta-loop-diagram.png` | Diagrama do meta loop |
-| ├── `arco-narrativo.md` | Texto do arco narrativo |
-| └── `roteiro-video.odt` | Roteiro usado para montagem do vídeo |
-| `/assets` | Imagens e elementos visuais |
-| ├── `backgrounds/` | Fundos da floresta e vilarejo |
-| ├── `ui/` | Amuleto, barras e elementos de interface |
-| ├── `criaturas/` | Fantasmas, sombras e inimigos |
-| ├── `npc/` | Aldeões e personagens |
-| └── `fragmentos/` | Memórias coletáveis |
+| ├── `core-loop.png` | Diagrama do loop central |
+| ├── `meta-loop.png` | Diagrama do meta loop |
+| ├── `descricao-projeto-game-loop-com-narrativa.docx` | Texto do arco narrativo |
+| ├── `entregaveis-projeto-game-loop-com-narrativa.docx` | Texto com a descrição de todos os elementos que compõem o projeto |
+| └── `roteiro-video-loop.docx` | Roteiro usado para montagem do vídeo |
 | `/prototipo` | Vídeos dos ciclos do loop |
 | └── `ciclo1.mp4` | Demonstração inicial do loop |
 | `README.md` | Documentação geral do projeto |
-
 
 ---
 
